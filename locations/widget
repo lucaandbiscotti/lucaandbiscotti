@@ -1,0 +1,9 @@
+<div class="storerocket-store-locator"></div>
+
+<script src="//cdn.storerocket.io/widget.js"></script>
+<script>
+StoreRocket.init({
+	selector: ".storerocket-store-locator",
+	account: "5P28OPQpoN"
+});
+</script>
